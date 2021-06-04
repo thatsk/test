@@ -6,7 +6,4 @@ checking new
 Updating new one
 kasuin
 asl
-
-adslnsalsadsald
-
-d
+adslnsalsadsd
